@@ -1,0 +1,14 @@
+.photo{
+    border-style: solid;
+    border-color: aliceblue;
+    border-width: 3px;
+	display:inline;
+    border-radius:105px;
+	position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.hello{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
